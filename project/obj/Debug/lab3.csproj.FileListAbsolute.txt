@@ -1,0 +1,90 @@
+C:\Users\Ангелина\Desktop\lab3\bin\Debug\lab3.exe.config
+C:\Users\Ангелина\Desktop\lab3\bin\Debug\lab3.exe
+C:\Users\Ангелина\Desktop\lab3\bin\Debug\lab3.pdb
+C:\Users\Ангелина\Desktop\lab3\obj\Debug\lab3.csproj.AssemblyReference.cache
+C:\Users\Ангелина\Desktop\lab3\obj\Debug\lab3.Form1.resources
+C:\Users\Ангелина\Desktop\lab3\obj\Debug\lab3.Properties.Resources.resources
+C:\Users\Ангелина\Desktop\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+C:\Users\Ангелина\Desktop\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+C:\Users\Ангелина\Desktop\lab3\obj\Debug\lab3.exe
+C:\Users\Ангелина\Desktop\lab3\obj\Debug\lab3.pdb
+F:\автоматы\лабы\lab3\obj\Debug\lab3.csproj.AssemblyReference.cache
+F:\автоматы\лабы\lab3\obj\Debug\lab3.Properties.Resources.resources
+F:\автоматы\лабы\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+F:\автоматы\лабы\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+F:\автоматы\лабы\lab3\obj\Debug\lab3.exe
+F:\автоматы\лабы\lab3\obj\Debug\lab3.pdb
+F:\автоматы\лабы\lab3\bin\Debug\lab3.exe.config
+F:\автоматы\лабы\lab3\bin\Debug\lab3.exe
+F:\автоматы\лабы\lab3\bin\Debug\lab3.pdb
+D:\автоматы\лабы\lab3\bin\Debug\lab3.exe.config
+D:\автоматы\лабы\lab3\bin\Debug\lab3.exe
+D:\автоматы\лабы\lab3\bin\Debug\lab3.pdb
+D:\автоматы\лабы\lab3\obj\Debug\lab3.csproj.AssemblyReference.cache
+D:\автоматы\лабы\lab3\obj\Debug\lab3.Form1.resources
+D:\автоматы\лабы\lab3\obj\Debug\lab3.Properties.Resources.resources
+D:\автоматы\лабы\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+D:\автоматы\лабы\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+D:\автоматы\лабы\lab3\obj\Debug\lab3.exe
+D:\автоматы\лабы\lab3\obj\Debug\lab3.pdb
+F:\автоматы\лабы\lab3\obj\Debug\lab4.Form1.resources
+F:\автоматы\лабы\lab4\bin\Debug\lab3.exe.config
+F:\автоматы\лабы\lab4\bin\Debug\lab3.exe
+F:\автоматы\лабы\lab4\bin\Debug\lab3.pdb
+F:\автоматы\лабы\lab4\obj\Debug\lab3.csproj.AssemblyReference.cache
+F:\автоматы\лабы\lab4\obj\Debug\lab4.Form1.resources
+F:\автоматы\лабы\lab4\obj\Debug\lab3.Properties.Resources.resources
+F:\автоматы\лабы\lab4\obj\Debug\lab3.csproj.GenerateResource.cache
+F:\автоматы\лабы\lab4\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+F:\автоматы\лабы\lab4\obj\Debug\lab3.exe
+F:\автоматы\лабы\lab4\obj\Debug\lab3.pdb
+F:\автоматы\лабы\lab4 — копия\bin\Debug\lab3.exe.config
+F:\автоматы\лабы\lab4 — копия\bin\Debug\lab3.exe
+F:\автоматы\лабы\lab4 — копия\bin\Debug\lab3.pdb
+F:\автоматы\лабы\lab4 — копия\obj\Debug\lab3.csproj.AssemblyReference.cache
+F:\автоматы\лабы\lab4 — копия\obj\Debug\lab4.Form1.resources
+F:\автоматы\лабы\lab4 — копия\obj\Debug\lab3.Properties.Resources.resources
+F:\автоматы\лабы\lab4 — копия\obj\Debug\lab3.csproj.GenerateResource.cache
+F:\автоматы\лабы\lab4 — копия\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+F:\автоматы\лабы\lab4 — копия\obj\Debug\lab3.exe
+F:\автоматы\лабы\lab4 — копия\obj\Debug\lab3.pdb
+F:\автоматы\лабы\lab5\bin\Debug\lab3.exe.config
+F:\автоматы\лабы\lab5\bin\Debug\lab3.exe
+F:\автоматы\лабы\lab5\bin\Debug\lab3.pdb
+F:\автоматы\лабы\lab5\obj\Debug\lab3.csproj.AssemblyReference.cache
+F:\автоматы\лабы\lab5\obj\Debug\lab4.Form1.resources
+F:\автоматы\лабы\lab5\obj\Debug\lab3.Properties.Resources.resources
+F:\автоматы\лабы\lab5\obj\Debug\lab3.csproj.GenerateResource.cache
+F:\автоматы\лабы\lab5\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+F:\автоматы\лабы\lab5\obj\Debug\lab3.exe
+F:\автоматы\лабы\lab5\obj\Debug\lab3.pdb
+F:\автоматы\лабы\lab5(1)\bin\Debug\lab3.exe.config
+F:\автоматы\лабы\lab5(1)\bin\Debug\lab3.exe
+F:\автоматы\лабы\lab5(1)\bin\Debug\lab3.pdb
+F:\автоматы\лабы\lab5(1)\obj\Debug\lab3.csproj.AssemblyReference.cache
+F:\автоматы\лабы\lab5(1)\obj\Debug\lab4.Form1.resources
+F:\автоматы\лабы\lab5(1)\obj\Debug\lab3.Properties.Resources.resources
+F:\автоматы\лабы\lab5(1)\obj\Debug\lab3.csproj.GenerateResource.cache
+F:\автоматы\лабы\lab5(1)\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+F:\автоматы\лабы\lab5(1)\obj\Debug\lab3.exe
+F:\автоматы\лабы\lab5(1)\obj\Debug\lab3.pdb
+F:\автоматы\лабы\lab6\bin\Debug\lab3.exe.config
+F:\автоматы\лабы\lab6\bin\Debug\lab3.exe
+F:\автоматы\лабы\lab6\bin\Debug\lab3.pdb
+F:\автоматы\лабы\lab6\obj\Debug\lab3.csproj.AssemblyReference.cache
+F:\автоматы\лабы\lab6\obj\Debug\lab4.Form1.resources
+F:\автоматы\лабы\lab6\obj\Debug\lab3.Properties.Resources.resources
+F:\автоматы\лабы\lab6\obj\Debug\lab3.csproj.GenerateResource.cache
+F:\автоматы\лабы\lab6\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+F:\автоматы\лабы\lab6\obj\Debug\lab3.exe
+F:\автоматы\лабы\lab6\obj\Debug\lab3.pdb
+F:\автоматы\лабы\project\bin\Debug\lab3.exe.config
+F:\автоматы\лабы\project\bin\Debug\lab3.exe
+F:\автоматы\лабы\project\bin\Debug\lab3.pdb
+F:\автоматы\лабы\project\obj\Debug\lab3.csproj.AssemblyReference.cache
+F:\автоматы\лабы\project\obj\Debug\lab4.Form1.resources
+F:\автоматы\лабы\project\obj\Debug\lab3.Properties.Resources.resources
+F:\автоматы\лабы\project\obj\Debug\lab3.csproj.GenerateResource.cache
+F:\автоматы\лабы\project\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+F:\автоматы\лабы\project\obj\Debug\lab3.exe
+F:\автоматы\лабы\project\obj\Debug\lab3.pdb
